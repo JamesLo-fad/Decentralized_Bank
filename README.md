@@ -1,4 +1,4 @@
-# Decentralized Bank
+# Decentralized Bank DApp
 
 Welcome to my first Web3 project, Decentralized Bank. It is capable to perform normal bank functions:
 - Deposit
